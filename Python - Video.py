@@ -1,3 +1,5 @@
+# JOSE JAVIER TORRES VANSTRAHLEN - SCRIPT PARA CALCULAR VELOCIDAD DE CAMINAR, CON BASE A LA DISTACIA Y EL TIEMPO
+
 distancia_sujeto1 = float(input("Distancia en metros para Sujeto 1: "))
 tiempo_sujeto1 = float(input("Tiempo en segundos para Sujeto 1: "))
 velocidad_sujeto1 = distancia_sujeto1 / tiempo_sujeto1
